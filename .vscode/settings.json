@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\brije\\Downloads\\org-apache-commons-codec.jar"
+    ]
+}
